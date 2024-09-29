@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'First-frame',
     description: 'LFG',
-    images: [`${NEXT_PUBLIC_URL}/park-1.png`],
+    images: [`${NEXT_PUBLIC_URL}/frame-1-forest.webp`],
   },
   other: {
     ...frameMetadata,
